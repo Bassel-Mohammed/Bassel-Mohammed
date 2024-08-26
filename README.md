@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bassel-Mohammed
-- 👀 I’m interested in Java , Spring frame work and front end technologies 
+- 👀 I’m interested in Java , Spring framework and front end technologies 
 - 🌱 I’m currently learning ... Angular 
 - 💞️ I’m looking to collaborate on ... Java projects
 
